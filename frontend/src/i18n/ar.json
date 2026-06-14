@@ -1,0 +1,55 @@
+{
+  "common": {
+    "appName": "مقيم الأداء",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "back": "العودة",
+    "next": "التالي",
+    "previous": "السابق",
+    "submit": "إرسال",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "warning": "تحذير",
+    "close": "إغلاق"
+  },
+  "auth": {
+    "login": "دخول",
+    "logout": "خروج",
+    "register": "تسجيل",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "invalidCredentials": "بيانات الدخول غير صحيحة"
+  },
+  "assessment": {
+    "title": "التقييم",
+    "startAssessment": "ابدأ التقييم",
+    "completeAssessment": "أكمل التقييم",
+    "submitAssessment": "أرسل التقييم",
+    "assessmentProgress": "تقدم التقييم",
+    "dimension": "البعد",
+    "question": "السؤال",
+    "answer": "الإجابة",
+    "rating": "التقييم",
+    "evidence": "الأدلة"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "overview": "نظرة عامة",
+    "assessments": "التقييمات",
+    "reports": "التقارير",
+    "analytics": "التحليلات"
+  },
+  "report": {
+    "title": "التقرير",
+    "executive": "الملخص التنفيذي",
+    "export": "تصدير",
+    "share": "مشاركة",
+    "download": "تحميل"
+  }
+}
